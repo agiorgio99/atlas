@@ -1,0 +1,13 @@
+group,technique,is_vowel,mean,median,std,count
+control,breathy,False,126.57,94.0,129.5,3306
+control,breathy,True,409.55,231.0,552.77,2052
+control,mixed_voice,False,125.97,90.0,142.65,2525
+control,mixed_voice,True,344.32,220.0,389.86,1609
+speech,breathy,False,113.76,90.0,104.14,3430
+speech,breathy,True,100.84,90.0,67.65,2048
+speech,mixed_voice,False,115.76,90.0,101.98,2651
+speech,mixed_voice,True,110.09,90.0,71.29,1611
+technique,breathy,False,153.82,110.0,163.69,3367
+technique,breathy,True,349.31,210.0,474.92,2056
+technique,mixed_voice,False,139.49,90.0,172.79,5204
+technique,mixed_voice,True,317.4,210.0,356.13,3288
