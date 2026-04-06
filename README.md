@@ -51,11 +51,7 @@ The GTSinger English subset is **not included in this repository** due to its si
 
 | Asset | Description | Link |
 |---|---|---|
-| `English.zip` | Full GTSinger English subset (raw, zipped) | [Download](https://drive.google.com/file/d/1DK1vnTs_d9JD7Xya4U5CEaXszIWyboFv/view?usp=drive_link) |
-| `english_raw/` | Unzipped WAV + TextGrid files | [Drive folder](https://drive.google.com/drive/folders/1js-mjuUJP3AC9I5lhVlBB2ctxGaVHTVX?usp=sharing) |
-| `english_prepared/` | Organised corpus for pipeline (singing/speech split) | [Drive folder](https://drive.google.com/drive/folders/1MjFnwpnDgs7toUL_QoerCfgsFJFnF58h?usp=sharing) |
-| `metadata/` | CSVs, WAV manifests, MFA corpus `.lab` files | [Drive folder](https://drive.google.com/drive/folders/1_2pEDcStx_wExf5LakW93hvEU_a7Ykw0?usp=sharing) |
-| `whisper_weights/` | Cached Whisper model weights (.pt files) | [Drive folder](https://drive.google.com/drive/folders/1hwA_jt48b1ZRdT9gmwpzf5SPLcKtpJFF?usp=sharing) |
+| `English.zip` | Full GTSinger English subset (raw, zipped) | [Download](https://drive.google.com/file/d/1DK1vnTs_d9JD7Xya4U5CEaXszIWyboFv/view?usp=drive_link)
 
 > **Dataset:** GTSinger — 3 English singers (EN-Alto-1, EN-Alto-2, EN-Tenor-1), 6,892 utterances, 5 techniques, 48 kHz WAV, phoneme-level TextGrid annotations.
 
